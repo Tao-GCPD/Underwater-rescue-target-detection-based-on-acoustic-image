@@ -1,7 +1,7 @@
 docutils==0.16
 # https://github.com/sphinx-doc/sphinx/commit/7acd3ada3f38076af7b2b5c9f3b60bb9c2587a3d
 sphinx==3.2.0
-recommonmark==0.6.0
+recommonmark==0.7.1
 sphinx_rtd_theme
 # Dependencies here are only those required by import
 termcolor
